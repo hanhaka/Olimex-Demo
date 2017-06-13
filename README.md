@@ -9,3 +9,6 @@ Goals of this demo project are:
 - Connect some kind of sensor(s) to board's input pin(s) and read the measurement data.
 - Implement a simple backend web server on the top of Node.js platform. Backend logis handles the reading of measurement data and serving it to clients connected to server.
 - Implement a simple but (hopefully) a snazzy UI using HTML5/JavaScript/CSS + suitable open source web stack. Plus add support for touch screen user experience for Olimex LCD display.
+
+
+![Olimex OLinuXino-Wifi board](A13-OLinuXino-Wifi.jpg)
